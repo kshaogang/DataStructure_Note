@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Microsoft Visual Studio\\project\\Project2\\P3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27C48126-03D7-4C91-BBDB-8C1075555664}|P3\\P3.vcxproj|D:\\Microsoft Visual Studio\\project\\Project2\\P3\\P3\\p2_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27C48126-03D7-4C91-BBDB-8C1075555664}|P3\\P3.vcxproj|solutionrelative:P3\\p2_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "p2_3.cpp",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\project\\Project2\\P3\\P3\\p2_3.cpp",
+              "RelativeDocumentMoniker": "P3\\p2_3.cpp",
+              "ToolTip": "D:\\Microsoft Visual Studio\\project\\Project2\\P3\\P3\\p2_3.cpp",
+              "RelativeToolTip": "P3\\p2_3.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T09:56:18.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
