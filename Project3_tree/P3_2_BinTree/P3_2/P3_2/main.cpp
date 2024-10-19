@@ -79,3 +79,25 @@ void LevelOrderTraversal(BinTree BT) {
 	}
 }
 
+//输出叶子结点
+void PreOrderPrintLeaves(BinTree BT) {
+	if (BT) {
+		if (!BT->Left && !BT->Right) {
+			printf("%d",BT->Data);
+			PreOrderPrintLeaves(BT->Left);
+			PreOrderPrintLeaves(BT->Right);
+		}
+	}
+}
+
+//求二叉树高度
+int PostOrderGetHeight(BinTree BT) {
+	int HL, HR, MaxH;
+	if (BT) {
+		HL = PostOrderGetHeight(BT->Left);
+		HR = PostOrderGetHeight(BT->Right);
+		MaxH = (HL > HR) ? HL : HR;
+		return (MaxH + 1);//关键在这里，当此结点不空时，MaxH便会+1
+	}
+	else if return 0;
+}
